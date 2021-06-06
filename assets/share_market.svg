@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+        xmlns="http://www.w3.org/2000/svg"
+        version="1.1"
+        id="svg8943"
+        width="239.10146"
+        height="239.10146">
+
+    <defs
+            id="defs8947" />
+
+    <g
+            id="g8951"
+            transform="matrix(1.3333333,0,0,1.3333333,367.0018,-438.18255)">
+        <path
+                style="fill:#ffee63;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.7941"
+                d="m -186.11539,328.63692 c 49.24827,0 89.178177,39.8877 89.178177,89.13597 0,49.24827 -39.929907,89.13608 -89.178177,89.13608 -49.20607,0 -89.13597,-39.88781 -89.13597,-89.13608 0,-49.24827 39.9299,-89.13597 89.13597,-89.13597"
+                id="path5607-1" />
+        <path
+                style="fill:#ffd735;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.7941"
+                d="m -185.06123,329.64887 c 49.20606,0 89.135967,39.92991 89.135967,89.13597 0,49.24827 -39.929907,89.17818 -89.135967,89.17818 z m 0,0"
+                id="path5609-9" />
+        <path
+                style="fill:#ebeef0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.7941"
+                d="m -140.32459,442.52353 h 34.61714 v 52.36854 h -34.61714 z m 0,0"
+                id="path5611-4" />
+        <path
+                style="fill:#ebeef0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.7941"
+                d="m -263.82479,341.41287 h 34.65934 v 52.36842 h -34.65934 z m 0,0"
+                id="path5613-7" />
+        <path
+                style="fill:#6e82b5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.7941"
+                d="M -96.937213,413.64079 H -216.1788 V 390.1129 l 50.30243,-30.18981 9.44487,15.68518 -32.76195,19.69089 h 92.256237 z m 0,0"
+                id="path5615-8" />
+        <path
+                style="fill:#6e82b5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.7941"
+                d="m -201.96928,485.7001 -9.44488,-15.72739 32.76195,-19.64868 h -92.21403 v -18.34162 h 119.24148 v 23.52788 z m 0,0"
+                id="path5617-4" />
+    </g>
+</svg>

@@ -1,0 +1,67 @@
+name: starter
+description: A new Flutter project.
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  flutter_localizations:
+    sdk: flutter
+
+
+  auto_route: ^2.2.0
+
+  cupertino_icons: ^1.0.3
+
+  dartz: ^0.10.0-nullsafety.1
+
+  equatable: ^2.0.0
+
+  flutter_bloc: ^7.0.0
+
+  get_it: ^7.1.3
+
+  google_fonts: ^2.0.0
+
+  flutter_hooks: ^0.17.0
+
+  flutter_svg: ^0.22.0
+
+  intl: ^0.17.0
+
+  logging: ^1.0.1
+
+  nepali_date_picker: ^5.0.0
+
+  reorderables: ^0.4.1
+
+  shared_preferences: ^2.0.5
+
+  shimmer: ^2.0.0
+
+  timeago: ^3.0.2
+
+  url_strategy: ^0.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  auto_route_generator: ^2.1.0
+  build_runner: ^2.0.3
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - assets/
+
+
+

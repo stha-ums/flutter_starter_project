@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/487305243/android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/487305243/android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-801551898/android.shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/-801551898/android.shared_preferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/487305243/hosted.pub.dartlang.org.path_provider-2.0.1.android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/487305243/hosted.pub.dartlang.org.path_provider-2.0.1.android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/487305243/hosted.pub.dartlang.org.path_provider-2.0.1.android.path_provider~1.iml" filepath="$PROJECT_DIR$/.idea/modules/487305243/hosted.pub.dartlang.org.path_provider-2.0.1.android.path_provider~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-801551898/hosted.pub.dartlang.org.shared_preferences-2.0.5.android.shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/-801551898/hosted.pub.dartlang.org.shared_preferences-2.0.5.android.shared_preferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-801551898/hosted.pub.dartlang.org.shared_preferences-2.0.5.android.shared_preferences~1.iml" filepath="$PROJECT_DIR$/.idea/modules/-801551898/hosted.pub.dartlang.org.shared_preferences-2.0.5.android.shared_preferences~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-801551898/hosted.pub.dartlang.org.shared_preferences-2.0.5.android.shared_preferences~2.iml" filepath="$PROJECT_DIR$/.idea/modules/-801551898/hosted.pub.dartlang.org.shared_preferences-2.0.5.android.shared_preferences~2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/487305243/io.flutter.plugins.pathprovider.android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/487305243/io.flutter.plugins.pathprovider.android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-801551898/io.flutter.plugins.sharedpreferences.android.shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/-801551898/io.flutter.plugins.sharedpreferences.android.shared_preferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/487305243/path_provider-2.0.1.android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/487305243/path_provider-2.0.1.android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/487305243/pub.dartlang.org.path_provider-2.0.1.android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/487305243/pub.dartlang.org.path_provider-2.0.1.android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-801551898/pub.dartlang.org.shared_preferences-2.0.5.android.shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/-801551898/pub.dartlang.org.shared_preferences-2.0.5.android.shared_preferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-801551898/shared_preferences-2.0.5.android.shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/-801551898/shared_preferences-2.0.5.android.shared_preferences.iml" />
+    </modules>
+  </component>
+</project>
