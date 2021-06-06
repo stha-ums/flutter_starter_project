@@ -2,7 +2,7 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import 'package:starter/core/config/app_localization.dart';
 import 'package:starter/features/localization_manager/bloc/localization_manager_bloc.dart';
 
 class ChangeLocaleDropDownWidget extends StatelessWidget {
@@ -11,8 +11,9 @@ class ChangeLocaleDropDownWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Row(
+      mainAxisAlignment: MainAxisAlignment.spaceAround,
       children: [
-        // Text(AppLocalizations.of(context)!.changeLanguage),
+        Text(AppLocalizations.of(context)!.changeLanguage),
         DropdownButtonHideUnderline(
           child: DropdownButton(
             value:
