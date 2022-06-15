@@ -1,7 +1,7 @@
 import 'package:get_it/get_it.dart';
-import 'package:starter/core/localization_manager/bloc/localization_manager_bloc.dart';
-import 'package:starter/core/theme/bloc/theme_manager_bloc.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'package:starter_proj/core/localization_manager/bloc/localization_manager_bloc.dart';
+import 'package:starter_proj/core/theme/bloc/theme_manager_bloc.dart';
 
 final sl = GetIt.instance;
 

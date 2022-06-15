@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mockito/annotations.dart';
 import 'package:mockito/mockito.dart';
-import 'package:starter/core/theme/bloc/theme_manager_bloc.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'package:starter_proj/core/theme/bloc/theme_manager_bloc.dart';
 
 import 'theme_manager_bloc_test.mocks.dart';
 

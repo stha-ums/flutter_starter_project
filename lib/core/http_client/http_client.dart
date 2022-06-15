@@ -8,8 +8,8 @@ import 'package:flutter_secure_storage/flutter_secure_storage.dart';
 import 'package:http/http.dart' as http;
 import 'package:logging/logging.dart';
 import 'package:mime/mime.dart';
-import 'package:starter/core/errors/exceptions/exceptions.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'package:starter_proj/core/errors/exceptions/exceptions.dart';
 
 import '../../config/service_locator/service_locator.dart';
 import '../autoroute/autoroute_cubit.dart';
@@ -47,7 +47,7 @@ class HttpCalls {
       if (guarded) {
         headers = {
           "Authorization":
-              "Bearer " + await getAccessTokenFromPersistanceStorage()
+              "Bearer ${await getAccessTokenFromPersistanceStorage()}"
         };
       }
 
@@ -168,7 +168,7 @@ class HttpCalls {
     String cookie = "";
     for (var key in _cookies.keys) {
       if (cookie.isEmpty) cookie += ";";
-      cookie += key + "=" + _cookies[key]!;
+      cookie += "$key=${_cookies[key]!}";
     }
     return cookie;
   }
@@ -223,7 +223,7 @@ class HttpCalls {
       req.headers.addAll({
         'Accept': 'application/json',
         "Authorization":
-            "Bearer " + await getAccessTokenFromPersistanceStorage()
+            "Bearer ${await getAccessTokenFromPersistanceStorage()}"
       });
 
       final response = await http.Response.fromStream(await req.send());

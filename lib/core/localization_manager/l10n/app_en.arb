@@ -4,5 +4,7 @@
   "changeLanguage": "Change Language",
   "@helloWorld": {
     "description": "The conventional newborn programmer greeting"
-  }
-}
+  },
+  "en": "English",
+  "ne": "Nepali"
+} 

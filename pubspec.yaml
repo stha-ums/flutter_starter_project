@@ -1,5 +1,5 @@
-name: starter
-description: A news app.
+name: starter_proj
+description: Mobile app for Today in Nepali History
 
 publish_to: "none"
 
@@ -9,7 +9,7 @@ environment:
   sdk: ">=2.16.2 <3.0.0"
 
 dependencies:
-  auto_route: ^3.2.4
+  auto_route: ^4.0.1
   cupertino_icons: ^1.0.2
   equatable: ^2.0.3
   flutter:
@@ -19,20 +19,23 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   flutter_secure_storage: ^5.0.2
-  freezed_annotation: ^1.1.0
+  freezed_annotation: ^2.0.3
   get_it: ^7.2.0
-  google_fonts: ^2.3.1
+  google_fonts: ^3.0.1
+  http: ^0.13.4
   intl: ^0.17.0
+  logging: ^1.0.2
+  mime: ^1.0.2
   shared_preferences: ^2.0.13
   url_strategy: ^0.2.0
 
 dev_dependencies:
-  auto_route_generator: ^3.2.3
+  auto_route_generator: ^4.0.0
   build_runner: ^2.1.8
-  flutter_lints: ^1.0.0
+  flutter_lints: ^2.0.1
   flutter_test:
     sdk: flutter
-  freezed: ^1.1.1
+  freezed: ^2.0.3+1
   json_serializable: ^6.1.5
   mockito: ^5.1.0
 
